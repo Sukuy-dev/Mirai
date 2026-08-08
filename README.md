@@ -4,7 +4,6 @@
 
 ## 主题下载
 
-- **[点击下载主题](https://pan.quark.cn/s/8c10556cdc45 "点击下载主题")**
 - **主题官网：[点击前往](https://www.sukuy.com/mirai)**
 - **主题演示站：[https://mirai.sukuy.com](https://mirai.sukuy.com "https://mirai.sukuy.com")**
 - **作者微信：Sakura1086**
